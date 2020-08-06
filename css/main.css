@@ -9,7 +9,7 @@
 
 
 .header {
-  padding-left: 5.5%;
+  padding-left: 6%;
   width: 89%;
   height: 100%;
 
@@ -50,7 +50,6 @@
 .header .logo {
   display: block;
   float: left;
-  padding: 10px 20px;
   text-decoration: none;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 36px;
@@ -170,7 +169,7 @@
 
 .header-carousel {
   width: 100%;
-  padding-left: 100px;
+  padding-left: 6%;
   background-image: linear-gradient(to top, #002931, #0f201c);
   padding-top: 50px;
   padding-bottom: 50px;
@@ -256,4 +255,21 @@
   letter-spacing: normal;
   text-align: left;
   color: #e0e9cc;
+}
+
+hr{
+  background: gray;
+  width: 60%;
+}
+
+/*CARDS SERVICES */
+
+.logo-services{
+  width: 45px;
+  height: 46px;
+}
+
+.icon-2{
+  width: 44px;
+  height: 42px;
 }
