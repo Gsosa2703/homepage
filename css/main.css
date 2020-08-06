@@ -274,12 +274,32 @@ hr{
   height: 42px;
 }
 
+.services{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
 .services-cards {
   display: flex;
     justify-content: space-between;
     align-items: center;
+    
+}
+
+.card-title{
+ 
+  font-family: Myriad Pro;
+  font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.15;
+  letter-spacing: -1.3px;
+  text-align: left;
+  color: #666666;
 }
 
 .card{
+  width: 30%;
     border: none !important;
 }
