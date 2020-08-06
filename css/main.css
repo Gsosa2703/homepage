@@ -284,6 +284,7 @@ hr{
     justify-content: space-between;
     align-items: center;
     
+    
 }
 
 .card-title{
@@ -302,4 +303,20 @@ hr{
 .card{
   width: 30%;
     border: none !important;
+}
+
+.btn{
+  border: solid 1px #cdcdcd !important;
+  background-image: linear-gradient(to top, #efefef, #ffffff54);
+  border-radius: 20px !important;
+  padding-right: 10px ;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666666;
 }
